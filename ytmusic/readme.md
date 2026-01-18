@@ -281,6 +281,77 @@ socat -V
 termux-wake-lock
 ```
 
+```bash
+~ $ mpv --version
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Jan 15 2026 22:42:13
+libplacebo version: v7.351.0
+FFmpeg version: 8.0.1
+FFmpeg library versions:
+   libavcodec      62.11.100
+   libavdevice     62.1.100
+   libavfilter     11.4.100
+   libavformat     62.3.100
+   libavutil       60.8.100
+   libswresample   6.1.100
+   libswscale      9.1.100
+~ $ yt-dlp --version
+2025.12.08
+~ $ socat -V
+socat by Gerhard Rieger and contributors - see www.dest-unreach.org
+socat version 1.8.1.0 on 09 Dec 2025 06:49:53
+   running on Linux version #1 SMP PREEMPT Mon Oct 13 16:08:50 CST 2025, release 4.19.152-perf+, machine aarch64
+features:
+  #define WITH_HELP 1
+  #define WITH_STATS 1
+  #define WITH_STDIO 1
+  #define WITH_FDNUM 1
+  #define WITH_FILE 1
+  #define WITH_CREAT 1
+  #define WITH_GOPEN 1
+  #define WITH_TERMIOS 1
+  #define WITH_PIPE 1
+  #define WITH_STALL 1
+  #define WITH_TEXT 1
+  #define WITH_SOCKETPAIR 1
+  #define WITH_UNIX 1
+  #define WITH_ABSTRACT_UNIXSOCKET 1
+  #define WITH_IP4 1
+  #define WITH_IP6 1
+  #define WITH_RAWIP 1
+  #define WITH_GENERICSOCKET 1
+  #define WITH_INTERFACE 1
+  #define WITH_TCP 1
+  #define WITH_UDP 1
+  #define WITH_SCTP 1
+  #define WITH_DCCP 1
+  #define WITH_UDPLITE 1
+  #define WITH_LISTEN 1
+  #undef WITH_POSIXMQ
+  #define WITH_SOCKS4 1
+  #define WITH_SOCKS4A 1
+  #define WITH_SOCKS5 1
+  #define WITH_VSOCK 1
+  #define WITH_NAMESPACES 1
+  #define WITH_PROXY 1
+  #define WITH_SYSTEM 1
+  #define WITH_SHELL 1
+  #define WITH_EXEC 1
+  #define WITH_READLINE 1
+  #define WITH_TUN 1
+  #define WITH_PTY 1
+  #define WITH_OPENSSL 1
+  #undef WITH_FIPS
+  #undef WITH_LIBWRAP
+  #define WITH_SYCLS 1
+  #define WITH_FILAN 1
+  #define WITH_RETRY 1
+  #undef WITH_DEVTESTS
+  #define WITH_MSGLEVEL 0 /*debug*/
+  #define WITH_DEFAULT_IPV 4
+~ $ termux-wake-lock
+```
+
 Test playback:
 
 ```bash
@@ -290,6 +361,29 @@ fw10
 bk15
 pause
 play
+```
+
+Sample terminal output
+
+```bash
+~ $ ytmusic
+Resume last playlist? (y/n): y
+[1] 21213
+~ $ status
+Now Playing: Kanniloru Minnal | Sajeer Koppam NewJUKEBOX | Super Hits Songs","request_id":0,"error":"success
+~ $ fw15
+~ $ fw19
+~ $ status
+Now Playing: Khalbile Kaayal | Sajeer Koppam Song | Sibu Sukumaran | Shafi Eppikkad | Faisal Ponnani","request_id":0,"error":"success
+~ $ pause
+~ $ status
+Now Playing: Khalbile Kaayal | Sajeer Koppam Song | Sibu Sukumaran | Shafi Eppikkad | Faisal Ponnani","request_id":0,"error":"success
+~ $ play
+~ $ stop
+[1]+  Done                       mpv --player-operation-mode=pseudo-gui --no-video --save-position-on-quit --input-ipc-server="$MPV_SOCKET" "$url"
+~ $ status
+2026/01/18 21:50:10 socat[25434] E GOPEN: /data/data/com.termux/files/usr/tmp/mpv-socket: Connection refused
+~ $
 ```
 
 ---
