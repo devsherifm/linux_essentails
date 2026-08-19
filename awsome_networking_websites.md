@@ -378,6 +378,16 @@
 | 18 | [Ekahau](https://www.ekahau.com/) | Wi-Fi design, survey and planning. | ⭐⭐⭐⭐⭐ |
 | 19 | [The Missing Semester](https://missing.csail.mit.edu/) | Linux, shell, Git and developer-tool foundations. | ⭐⭐⭐⭐⭐ |
 | 20 | [NANOG](https://www.nanog.org/) | ISP/operator community and operational knowledge. | ⭐⭐⭐⭐⭐ |
+| 21 | [https://gns3.com/](https://gns3.com/) | Advanced network simulation for complex topology testing. | ⭐⭐⭐⭐⭐ |
+| 22 | [https://pynetlabs.com/](https://pynetlabs.com/) | Dedicated network automation and simulation training. | ⭐⭐⭐⭐⭐ |
+| 23 | [https://github.com/freeradius/freeradius-server](https://www.google.com/search?q=https://github.com/freeradius/freeradius-server) | Essential reference for AAA and network authentication. | ⭐⭐⭐⭐☆ |
+| 24 | [https://www.netflowanalyzer.in/](https://www.google.com/search?q=https://www.netflowanalyzer.in/) | Traffic analysis and bandwidth monitoring references. | ⭐⭐⭐☆☆ |
+| 25 | [https://github.com/tats/qrencode](https://www.google.com/search?q=https://github.com/tats/qrencode) | Command-line tool for generating QR codes for config/info. | ⭐⭐⭐☆☆ |
+| 26 | [https://datatracker.ietf.org/doc/html/](https://www.google.com/search?q=https://datatracker.ietf.org/doc/html/) | Direct RFC index for precise protocol documentation. | ⭐⭐⭐⭐⭐ |
+| 27 | [https://www.wireshark.org/tools/](https://www.wireshark.org/tools/) | Specialized packet analysis and utility tools. | ⭐⭐⭐⭐☆ |
+| 28 | [https://github.com/napalm-automation/napalm](https://github.com/napalm-automation/napalm) | Multi-vendor network automation abstraction library. | ⭐⭐⭐⭐⭐ |
+| 29 | [https://www.ciscolive.com/on-demand.html](https://www.ciscolive.com/on-demand.html) | Deep-dive technical sessions and architecture designs. | ⭐⭐⭐⭐⭐ |
+| 30 | [https://nmap.org/book/](https://nmap.org/book/) | The gold standard for network discovery and security auditing. | ⭐⭐⭐⭐⭐ |
 
 
 ## ❤️ Contributing
