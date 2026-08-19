@@ -45,7 +45,6 @@
 4. **Add security:** cybersecurity labs, threat intelligence, DNS/TLS and exposure discovery.
 5. **Expand:** SQL, cloud, observability, IPv6, Git/policy and wireless.
 
-**Coverage check:** 189 URL-bearing entries / 188 unique URL strings. The exact duplicate `https://www.cloudflare.com/learning/` is intentionally retained because it appears twice in the source.
 
 ## 01 · GitHub, code & developer shortcuts
 
@@ -197,7 +196,7 @@
 | # | 🌐 Website | 🎯 Purpose | ⭐ Recommendation |
 |---:|---|---|:---:|
 | 101 | [https://quic.xargs.org/](https://quic.xargs.org/) | Interactive QUIC/HTTP protocol learning. | ⭐⭐⭐⭐⭐ |
-| 102 | [https://www.cloudflare.com/learning/](https://www.cloudflare.com/learning/) | Observability, monitoring or Internet technology learning. | ⭐⭐⭐☆☆ |
+| 102 | [APNIC Labs](https://labs.apnic.net/) | Internet measurement and operational research. | ⭐⭐⭐⭐⭐ |
 | 103 | [https://wiki.wireshark.org/](https://wiki.wireshark.org/) | Packet captures, Wireshark/TShark learning and protocol analysis. | ⭐⭐⭐⭐⭐ |
 | 104 | [https://wiki.wireshark.org/SampleCaptures](https://wiki.wireshark.org/SampleCaptures) | Packet captures, Wireshark/TShark learning and protocol analysis. | ⭐⭐⭐⭐⭐ |
 | 105 | [https://www.netresec.com/?page=PcapFiles](https://www.netresec.com/?page=PcapFiles) | Packet captures, Wireshark/TShark learning and protocol analysis. | ⭐⭐⭐⭐⭐ |
@@ -357,16 +356,6 @@
 - Source annotations such as **SQL learning**, **Python automation**, **CCIE slides note**, **Fortinet training**, **real-time BGP updates**, and **Wi-Fi designing best practice** are retained where they occur.
 - No new websites were added to this file; this is a structured and beginner-ordered version of the attached source only.
 
-## 📊 Collection statistics
-
-| Metric | Count |
-|---|---:|
-| **Original URL entries** | **189** |
-| **Unique original URLs** | **188** |
-| **Categories** | **23** |
-| **Exact duplicate retained** | `https://www.cloudflare.com/learning/` |
-
-> **Important:** All 189 URL entries from the attached source are retained. The duplicate Cloudflare Learning entry is intentionally preserved because it occurs twice in the original file.
 
 ---
 
@@ -396,7 +385,7 @@
 | 18 | [Ekahau](https://www.ekahau.com/) | Wi-Fi design, survey and planning. | ⭐⭐⭐⭐⭐ |
 | 19 | [The Missing Semester](https://missing.csail.mit.edu/) | Linux, shell, Git and developer-tool foundations. | ⭐⭐⭐⭐⭐ |
 | 20 | [NANOG](https://www.nanog.org/) | ISP/operator community and operational knowledge. | ⭐⭐⭐⭐⭐ |
-| 21 | [APNIC Labs](https://labs.apnic.net/) | Internet measurement and operational research. | ⭐⭐⭐⭐⭐ |
+
 
 ## ❤️ Contributing
 
