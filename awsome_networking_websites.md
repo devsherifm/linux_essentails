@@ -388,7 +388,16 @@
 | 28 | [https://github.com/napalm-automation/napalm](https://github.com/napalm-automation/napalm) | Multi-vendor network automation abstraction library. | ⭐⭐⭐⭐⭐ |
 | 29 | [https://www.ciscolive.com/on-demand.html](https://www.ciscolive.com/on-demand.html) | Deep-dive technical sessions and architecture designs. | ⭐⭐⭐⭐⭐ |
 | 30 | [https://nmap.org/book/](https://nmap.org/book/) | The gold standard for network discovery and security auditing. | ⭐⭐⭐⭐⭐ |
-
+| 31 | [https://www.netresec.com/](https://www.netresec.com/) | Network forensics, passive analysis tools, and incident response resources. | ⭐⭐⭐⭐⭐ |
+| 32 | [https://github.com/nvaccess/nvda](https://github.com/nvaccess/nvda) | Open-source screen reader reference (useful for accessibility compliance in enterprise portals). | ⭐⭐⭐☆☆ |
+| 33 | [https://www.packet-foo.com/](https://www.packet-foo.com/) | Advanced Wireshark and deep packet analysis tutorials and blogs. | ⭐⭐⭐⭐⭐ |
+| 34 | [https://www.rfc-base.org/](https://www.google.com/search?q=https://www.rfc-base.org/) | Collaborative discussion and commentary layered over IETF RFCs. | ⭐⭐⭐⭐☆ |
+| 35 | [https://github.com/rbignon/php-weathermap](https://www.google.com/search?q=https://github.com/rbignon/php-weathermap) | Classic link utilization and network traffic map visualization. | ⭐⭐⭐⭐☆ |
+| 36 | [https://www.opennetworking.org/](https://www.opennetworking.org/) | Open-source SDN, PND, and next-generation software-defined networking standards. | ⭐⭐⭐⭐⭐ |
+| 37 | [https://www.netscaler.com/](https://www.netscaler.com/) | Enterprise application delivery controller (ADC) and load balancing reference. | ⭐⭐⭐⭐☆ |
+| 38 | [https://www.cloudshark.org/](https://www.cloudshark.org/) | Web-based packet analysis and PCAP sharing platform. | ⭐⭐⭐⭐☆ |
+| 39 | [https://www.speedtest.net/apps/cli](https://www.speedtest.net/apps/cli) | Official Ookla CLI tool for terminal-based bandwidth and latency testing. | ⭐⭐⭐⭐☆ |
+| 40 | [https://www.st-sa.fr/](https://www.st-sa.fr/) | Deep technical network engineering articles, routing, and MPLS deep-dives. | ⭐⭐⭐⭐⭐ |
 
 ## ❤️ Contributing
 
