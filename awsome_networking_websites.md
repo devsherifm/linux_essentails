@@ -78,7 +78,7 @@
 | 21 | [https://labs.apnic.net/presentations/](https://labs.apnic.net/presentations/) | Reference or learning resource. | ⭐⭐⭐☆☆ |
 | 22 | [http://presentations.potaroo.net/2025-09-03-transport-ausnog.pdf](http://presentations.potaroo.net/2025-09-03-transport-ausnog.pdf) | Reference or learning resource. | ⭐⭐⭐☆☆ |
 | 23 | [https://app.diagrams.net/](https://app.diagrams.net/) | Create network, architecture and technical diagrams. | ⭐⭐⭐☆☆ |
-| 24 | [https://excalidraw.com/](https://excalidraw.com/) | Create network, architecture and technical diagrams. | ⭐⭐⭐☆☆ |
+| 24 | [https://excalidraw.com/](https://excalidraw.com/) | Create network, architecture and technical diagrams. | ⭐⭐⭐⭐⭐|
 | 25 | [https://labs.ripe.net/](https://labs.ripe.net/) | Reference or learning resource. | ⭐⭐⭐☆☆ |
 | 26 | [https://www.ietf.org/](https://www.ietf.org/) | Primary Internet protocol standards, registries and RFC references. | ⭐⭐⭐⭐⭐ |
 | 27 | [https://www.iana.org/](https://www.iana.org/) | Primary Internet protocol standards, registries and RFC references. | ⭐⭐⭐⭐⭐ |
@@ -92,7 +92,7 @@
 | # | 🌐 Website | 🎯 Purpose | ⭐ Recommendation |
 |---:|---|---|:---:|
 | 32 | [https://batfish.org/](https://batfish.org/) | Validate network configurations and reason about network behavior. | ⭐⭐⭐⭐⭐ |
-| 33 | [https://chrisjhart.com/TLDR-AWX-Minikube-Ubuntu-2204/](https://chrisjhart.com/TLDR-AWX-Minikube-Ubuntu-2204/) | Reference or learning resource. | ⭐⭐⭐⭐☆ |
+| 33 | [https://chrisjhart.com/TLDR-AWX-Minikube-Ubuntu-2204/](https://chrisjhart.com/TLDR-AWX-Minikube-Ubuntu-2204/) | AWX Minikube LAB setup | ⭐⭐⭐⭐☆ |
 | 34 | [https://blog.nerdylyonsden.io/gitops-for-network-engineers-deploying-nautobot](https://blog.nerdylyonsden.io/gitops-for-network-engineers-deploying-nautobot) | Reference or learning resource. | ⭐⭐⭐⭐☆ |
 | 35 | [https://github.com/network-evolution/Python_for_Network_Engineers](https://github.com/network-evolution/Python_for_Network_Engineers) | Hands-on or study material for networking/DevOps. | ⭐⭐⭐⭐☆ |
 | 36 | [https://github.com/aninchat/learning-labs](https://github.com/aninchat/learning-labs) | Hands-on or study material for networking/DevOps. | ⭐⭐⭐⭐☆ |
@@ -115,7 +115,7 @@
 | 48 | [https://prepare.sh/](https://prepare.sh/) | Technical interview and preparation resources. | ⭐⭐⭐⭐☆ |
 | 49 | [https://github.com/features/codespaces](https://github.com/features/codespaces) | Cloud development environments. | ⭐⭐⭐⭐⭐ |
 | 50 | [https://learn.github.com/skills](https://learn.github.com/skills) | Interactive GitHub skills learning. | ⭐⭐⭐⭐⭐ |
-| 51 | [https://linuxlabs.app/](https://linuxlabs.app/) | paid | ⭐⭐⭐⭐☆ |
+| 51 | [https://linuxlabs.app/](https://linuxlabs.app/) | Linux learning (paid) | ⭐⭐⭐⭐☆ |
 | 52 | [https://kodekloud.com/studio/labs/docker](https://kodekloud.com/studio/labs/docker) | Hands-on Docker/container learning. | ⭐⭐⭐☆☆ |
 | 53 | [https://training.play-with-docker.com/](https://training.play-with-docker.com/) | Hands-on Docker/container learning. | ⭐⭐⭐⭐⭐ |
 | 54 | [https://girus.io/](https://girus.io/) | Hands-on Docker/container learning. | ⭐⭐⭐⭐☆ |
@@ -161,7 +161,7 @@
 
 | # | 🌐 Website | 🎯 Purpose | ⭐ Recommendation |
 |---:|---|---|:---:|
-| 77 | [https://arista-python-web2py.readthedocs.io/en/latest/](https://arista-python-web2py.readthedocs.io/en/latest/) | Python/network automation learning. | ⭐⭐⭐⭐☆ |
+| 77 | [https://arista-python-web2py.readthedocs.io/en/latest/](https://arista-python-web2py.readthedocs.io/en/latest/) | Python/network automation learning. | ⭐⭐⭐⭐⭐|
 | 78 | [https://pyneng.readthedocs.io/en/latest/resources/README.html](https://pyneng.readthedocs.io/en/latest/resources/README.html) | Python/network automation learning. | ⭐⭐⭐⭐⭐ |
 | 79 | [https://pynet.twb-tech.com/network-automation-articles.html](https://pynet.twb-tech.com/network-automation-articles.html) | python automation | ⭐⭐⭐⭐⭐ |
 | 80 | [https://python-automation-book.readthedocs.io/en/stable/](https://python-automation-book.readthedocs.io/en/stable/) | python automation | ⭐⭐⭐⭐⭐ |
@@ -349,13 +349,6 @@
 | 187 | [https://www.linkedin.com/newsletters/ccnp-ccie-tech-talk-7198933398797602816](https://www.linkedin.com/newsletters/ccnp-ccie-tech-talk-7198933398797602816) | networking blogs | ⭐⭐⭐⭐☆ |
 | 188 | [https://www.linkedin.com/newsletters/ip-toolkit-6876460669873614848](https://www.linkedin.com/newsletters/ip-toolkit-6876460669873614848) | Community learning, networking posts or professional newsletters. | ⭐⭐⭐⭐☆ |
 | 189 | [https://www.mindluster.com/](https://www.mindluster.com/) | General online learning resources. | ⭐⭐⭐⭐☆ |
-
-## Source notes preserved
-
-- `linuxlabs.app` is marked **paid** in the source.
-- Source annotations such as **SQL learning**, **Python automation**, **CCIE slides note**, **Fortinet training**, **real-time BGP updates**, and **Wi-Fi designing best practice** are retained where they occur.
-- No new websites were added to this file; this is a structured and beginner-ordered version of the attached source only.
-
 
 ---
 
