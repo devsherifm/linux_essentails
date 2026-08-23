@@ -1,7 +1,7 @@
 # 🌐 Network · NetDevOps · Cybersecurity · Automation · Cloud · Wireless
 
 > ### ⭐ A practical collection of useful engineering websites
-> **189 source entries · 188 unique URLs · beginner → advanced organization**
+
 
 ![Network](https://img.shields.io/badge/Network-Resources-blue?style=for-the-badge)
 ![NetDevOps](https://img.shields.io/badge/NetDevOps-Automation-green?style=for-the-badge)
