@@ -1,3 +1,0 @@
--r requirements.txt
-textual-image[textual]>=0.13.2,<0.14; python_version >= "3.12"
-pillow>=10.0
