@@ -93,7 +93,7 @@ The plugin loader is intentionally fault tolerant: an optional extension that is
 cd ~
 pipx uninstall ghmd 2>/dev/null || true
 rm -rf ~/ghmd
-unzip ~/Downloads/ghmd-tui-0.5.0.zip
+unzip ~/ghmd-tui-0.5.0.zip
 cd ~/ghmd
 chmod +x install.sh
 ./install.sh
