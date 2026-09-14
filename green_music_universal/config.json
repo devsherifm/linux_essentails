@@ -1,0 +1,22 @@
+{
+  "music_dir": "~/Music",
+  "youtube_dir": "~/Music/YouTube",
+  "volume": 80,
+  "shuffle": false,
+  "repeat": "all",
+  "autoplay": true,
+  "radio": [
+    {
+      "name": "Lofi",
+      "url": "https://ice1.somafm.com/beatblender-128-mp3"
+    },
+    {
+      "name": "Groove Salad",
+      "url": "https://ice1.somafm.com/groovesalad-128-mp3"
+    },
+    {
+      "name": "Chillhop",
+      "url": "https://lfhh.radioca.st/stream"
+    }
+  ]
+}
